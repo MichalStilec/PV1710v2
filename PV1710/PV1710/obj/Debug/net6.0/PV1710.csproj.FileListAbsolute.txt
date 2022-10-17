@@ -1,0 +1,15 @@
+M:\PV 2022-23\PV1710\PV1710\bin\Debug\net6.0\PV1710.exe
+M:\PV 2022-23\PV1710\PV1710\bin\Debug\net6.0\PV1710.deps.json
+M:\PV 2022-23\PV1710\PV1710\bin\Debug\net6.0\PV1710.runtimeconfig.json
+M:\PV 2022-23\PV1710\PV1710\bin\Debug\net6.0\PV1710.dll
+M:\PV 2022-23\PV1710\PV1710\bin\Debug\net6.0\PV1710.pdb
+M:\PV 2022-23\PV1710\PV1710\obj\Debug\net6.0\PV1710.csproj.AssemblyReference.cache
+M:\PV 2022-23\PV1710\PV1710\obj\Debug\net6.0\PV1710.GeneratedMSBuildEditorConfig.editorconfig
+M:\PV 2022-23\PV1710\PV1710\obj\Debug\net6.0\PV1710.AssemblyInfoInputs.cache
+M:\PV 2022-23\PV1710\PV1710\obj\Debug\net6.0\PV1710.AssemblyInfo.cs
+M:\PV 2022-23\PV1710\PV1710\obj\Debug\net6.0\PV1710.csproj.CoreCompileInputs.cache
+M:\PV 2022-23\PV1710\PV1710\obj\Debug\net6.0\PV1710.dll
+M:\PV 2022-23\PV1710\PV1710\obj\Debug\net6.0\refint\PV1710.dll
+M:\PV 2022-23\PV1710\PV1710\obj\Debug\net6.0\PV1710.pdb
+M:\PV 2022-23\PV1710\PV1710\obj\Debug\net6.0\PV1710.genruntimeconfig.cache
+M:\PV 2022-23\PV1710\PV1710\obj\Debug\net6.0\ref\PV1710.dll
